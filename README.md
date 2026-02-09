@@ -4,9 +4,9 @@
 
 This project is an unofficial and non-professional implementation of the short scale test regarding to the Big Five personality traits (OCEAN) model, which is intended for educational purposes only and SHOULD NOT be used for clinical, employment, or diagnostic purposes. *__It is not affiliated with, endorsed by, or connected to any commercial psychological assessment company or copyright holder of official personality inventories like the NEO-PI-R.__*
 
-The personality assessment items (questions) used in this project were AI-assisted, which might have inadvertently drawn inspiration from or paraphrased descriptions commonly found online, in books, and within the broader psychological community. It is challenging to trace a definitive, copyright-free origin for each item due to the widespread dissemination of the Big Five Personality Trait theory.
+The personality assessment items (questions) used in this project were AI-assisted, based on publicly available descriptions of the Big Five Personality Trait framework **without direct replication of copyrighted items**. The descriptions are commonly found online, in books, and within the broader psychological community. It is challenging to trace a definitive, copyright-free origin for each item due to the widespread dissemination of the Big Five Personality Trait theory.
 
-*__If any item in this repository is identified as infringing upon your copyright, please contact me immediately via [GitHub Issues](https://github.com/yourusername/OCEAN.ShortScale/issues) or [benjamin_2001@qq.com](mailto:benjamin_2001@qq.com). I will promptly investigate and remove or properly attribute the content in question.__*
+*__If any content in this repository is determined to be inconsistent with copyright guidelines, please contact me immediately via [GitHub Issues](https://github.com/yourusername/OCEAN.ShortScale/issues) or [benjamin_2001@qq.com](mailto:benjamin_2001@qq.com). I will promptly investigate and remove or properly attribute the content in question.__*
 
 ## Project Overview
 This project provides two implementations of the OCEAN Personality Short Scale Test:
@@ -149,5 +149,6 @@ OCEAN.ShortScale/
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
