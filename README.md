@@ -1,12 +1,27 @@
 # OCEAN Personality Short Scale (.NET 10 Console & Python Tkinter)
 
-## Project Overview
+## Important Disclaimer: Unofficial & Non-Professional Tool
 
+This project is an unofficial and non-professional implementation of the short scale test regarding to the Big Five personality traits (OCEAN) model, which is intended for educational purposes only and SHOULD NOT be used for clinical, employment, or diagnostic purposes. *__It is not affiliated with, endorsed by, or connected to any commercial psychological assessment company or copyright holder of official personality inventories like the NEO-PI-R.__*
+
+The personality assessment items (questions) used in this project were AI-assisted, which might have inadvertently drawn inspiration from or paraphrased descriptions commonly found online, in books, and within the broader psychological community. It is challenging to trace a definitive, copyright-free origin for each item due to the widespread dissemination of the Big Five Personality Trait theory.
+
+*__If any item in this repository is identified as infringing upon your copyright, please contact me immediately via [GitHub Issues](https://github.com/yourusername/OCEAN.ShortScale/issues) or [benjamin_2001@qq.com](mailto:benjamin_2001@qq.com). I will promptly investigate and remove or properly attribute the content in question.__*
+
+## Project Overview
 This project provides two implementations of the OCEAN Personality Short Scale Test:
 - **C# Console Application**: A command-line interface for quick testing
 - **Python Tkinter Application**: A graphical user interface for a more interactive experience
 
 Both versions feature the same set of 40 questions (8 per personality trait) with proper reverse scoring and detailed result analysis.
+
+## Note on Personality Testing
+
+The Big Five personality traits describe general tendencies and are a good starting point for personal growth. However:
+- This test is for educational and self-reflection purposes only
+- It should not be used for clinical, employment, or diagnostic purposes
+- Every person's personality is unique and developable
+- For professional personality assessment, consult a qualified psychologist
 
 ## Personality Traits Measured
 
@@ -123,14 +138,6 @@ OCEAN.ShortScale/
 ├── LICENSE                  # Project license
 └── README.md                # This documentation
 ```
-
-## Note on Personality Testing
-
-The Big Five personality traits describe general tendencies and are a good starting point for personal growth. However:
-- This test is for educational and self-reflection purposes only
-- It should not be used for clinical, employment, or diagnostic purposes
-- Every person's personality is unique and developable
-- For professional personality assessment, consult a qualified psychologist
 
 ## Acknowledgments
 
